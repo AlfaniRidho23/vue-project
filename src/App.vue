@@ -4,7 +4,7 @@
 
 <template>
   <h1><center>Pangeran Barbershop </center></h1>
-  <center><img src="https://o.remove.bg/downloads/1b49acac-ea24-4de9-888f-40ea78fabb82/logo_barbersoap-removebg-preview.png" alt="logo.png" style="width:322px;height:330px;" /> </center>
+  <center><img src="logo_barbersoap-removebg-preview (3).png" alt="logo.png" style="width:322px;height:330px;" /> </center>
   <center><h2>Login costumer Barbershop </h2></center>
   <center><form action="/action_page.php">
         <label for="usname">Username:</label>
@@ -52,7 +52,7 @@ table, th, td {
 </style>
 <style>
 form {margin-top: 1%;}
- body { background-image: url("https://o.remove.bg/downloads/e82f1ee9-c309-4766-99b4-d980ef94d81d/images__1_-removebg-preview.png");
+ body { background-image: url ("pw.jpg");
  background-size: cover;}
  table, th, td {border:2px solid black;}
 </style>
